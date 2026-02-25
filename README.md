@@ -1,5 +1,4 @@
-# RakGPT - Decoder-Only Transformer Built From Scratch
-
+# RakGPT - Small Language Model
 RakGPT is a minimal GPT-style decoder-only Transformer (Small Language Model) entirely from scratch in PyTorch.
 
 The objective of this project was to deeply understand how autoregressive language models work internally — from token embeddings and positional encodings to masked self-attention, residual connections, and next-token prediction.
@@ -37,7 +36,7 @@ The model is trained to predict the next token in an autoregressive manner using
 ### Brief / Layer-Level Architecture
 
 <p align="center">
-  <img src="assets/architecture_brief.png" width="800">
+  <img src="assets/model_architecture.png" width="800">
 </p>
 
 ---
