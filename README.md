@@ -7,6 +7,17 @@ This implementation focuses on architectural clarity, controlled experimentation
 
 ---
 
+## Demo: RakGPT Inference
+
+
+
+<p align="center">
+  <img src="assets/RakGPT-demo.gif" width="850">
+</p>
+
+## Full Inference Demo
+[▶ Watch the full demo](assets/RakGPT-inference-c.mp4)
+
 ## Architecture Overview
 
 RakGPT follows the standard decoder-only Transformer pipeline:
