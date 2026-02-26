@@ -12,7 +12,7 @@ This implementation focuses on architectural clarity, controlled experimentation
 
 
 <p align="center">
-  <img src="assets/RakGPT-demo.gif" width="850">
+  <img src="assets/RakGPT-demo-c1.gif" width="850">
 </p>
 
 ## Full Inference Demo
